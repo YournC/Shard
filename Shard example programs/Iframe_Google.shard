@@ -1,0 +1,1 @@
+["print This program will Iframe Google.com using Shard.","print","wait 1","ifr.open https://google.com","print","print * Magic *"]
